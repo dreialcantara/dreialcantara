@@ -30,4 +30,4 @@ Ferramentas e Tecnologias:
 
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/dreialcantara/dreialcantara/blob/output/github-contribution-grid-snake.svg)
