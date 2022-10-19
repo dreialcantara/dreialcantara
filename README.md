@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreialcantara&count_private=true&show_icons=true&theme=dracula)
 # Olá, me chamo SeuNomeAqui ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -10,6 +9,8 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreialcantara&count_private=true&show_icons=true&theme=dracula)
 
 
 Ferramentas e Tecnologias:
