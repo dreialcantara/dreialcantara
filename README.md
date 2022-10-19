@@ -2,6 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreialcantara&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" />
 
 
