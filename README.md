@@ -26,6 +26,9 @@ Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50px" />
 
+![Snake animation](https://github.com/seu-usuário-aqui/dreialcantara/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
