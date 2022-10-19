@@ -6,7 +6,7 @@
 - 👯 Estou procurando colaborar em projetos que possam me fazer adquirir experiência com linguagens front-end
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre experiência do usuário - UI/UX
-- 📫 Como entrar em contato comigo: <br>
+- 📫 Como entrar em contato comigo: <br> <br>
 <a href = "mailto:andreialcantara@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 
 
