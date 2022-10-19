@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre experiência do usuário - UI/UX
 - 📫 Como entrar em contato comigo: <br> <br>
 <a href = "mailto:andreialcantara@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/andrei-alcantara-9463b6177/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/andrei-alcantara-9463b6177/)
 
 
 
