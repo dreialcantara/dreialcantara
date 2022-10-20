@@ -1,5 +1,5 @@
 # Olá, me chamo Andrei Alcantara ! 
-## 👋 Bem vindo ao meu perfil GitHub 
+## 👋 Bem vindo ao meu GitHub ! 
 
 - 🔭 Atualmente estou trabalhando na Manual.co
 - 🌱 Foco em TypeScript & React
