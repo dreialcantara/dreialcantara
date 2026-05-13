@@ -2,7 +2,6 @@
 ## 👋 Bem vindo ao meu GitHub ! 
 
 - 🔭 Atualmente estou trabalhando na Manual.co
-- 🌱 Foco em TypeScript & ReactJS
 
 
 
